@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on cloud native
+- 🌱 I’m currently learning service mesh
+- 💬 Ask me about container or harbor or kubernetes
+- 📫 How to reach me: leesven@qq.com
+
+Reject [996](https://996.icu/#/en_US), WLB only.
+
 <!--
 **lixianyang/lixianyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
